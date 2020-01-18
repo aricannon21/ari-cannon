@@ -1,1 +1,10 @@
 #git_exercise
+
+public class Helloworld {
+	//static**
+
+  public static void main(String[] args){
+  	//! inside the ()
+    System.out.println("Hello World!");
+  }
+}
